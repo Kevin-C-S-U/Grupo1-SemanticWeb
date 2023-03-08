@@ -1,0 +1,831 @@
+Type,Name,Course
+Introduction,Story,Des présentations efficaces
+Modules,Bussiness Concept,Des présentations efficaces
+Modules,Technology Skills,Des présentations efficaces
+Modules,Survey,Des présentations efficaces
+Modules,Resources,Des présentations efficaces
+Introduction,Story,Présenter des données
+Modules,Bussiness Concept,Présenter des données
+Modules,Technology Skills,Présenter des données
+Modules,Survey,Présenter des données
+Modules,Resources,Présenter des données
+Introduction,Story,Les e-mails professionnels
+Modules,Bussiness Concept,Les e-mails professionnels
+Modules,Technology Skills,Les e-mails professionnels
+Modules,Survey,Les e-mails professionnels
+Modules,Resources,Les e-mails professionnels
+Introduction,Story,Communications professionnelles
+Modules,Bussiness Concept,Communications professionnelles
+Modules,Technology Skills,Communications professionnelles
+Modules,Survey,Communications professionnelles
+Modules,Resources,Communications professionnelles
+Introduction,Story,Leadership efficace
+Modules,Bussiness Concept,Leadership efficace
+Modules,Technology Skills,Leadership efficace
+Modules,Survey,Leadership efficace
+Modules,Resources,Leadership efficace
+Introduction,Story,Économie circulaire
+Modules,Bussiness Concept,Économie circulaire
+Modules,Technology Skills,Économie circulaire
+Modules,Survey,Économie circulaire
+Modules,Resources,Économie circulaire
+Introduction,Story,Démarrer une petite entreprise
+Modules,Bussiness Concept,Démarrer une petite entreprise
+Modules,Technology Skills,Démarrer une petite entreprise
+Modules,Survey,Démarrer une petite entreprise
+Modules,Resources,Démarrer une petite entreprise
+Introduction,Story,L'entrepreneuriat social
+Modules,Bussiness Concept,L'entrepreneuriat social
+Modules,Technology Skills,L'entrepreneuriat social
+Modules,Survey,L'entrepreneuriat social
+Modules,Resources,L'entrepreneuriat social
+Introduction,Story,Moteurs de croissance
+Modules,Bussiness Concept,Moteurs de croissance
+Modules,Technology Skills,Moteurs de croissance
+Modules,Survey,Moteurs de croissance
+Modules,Resources,Moteurs de croissance
+Introduction,Story,Impression 3D
+Modules,Bussiness Concept,Impression 3D
+Modules,Technology Skills,Impression 3D
+Modules,Survey,Impression 3D
+Modules,Resources,Impression 3D
+Introduction,Story,L’état d’esprit de réussite
+Modules,Bussiness Concept,L’état d’esprit de réussite
+Modules,Technology Skills,L’état d’esprit de réussite
+Modules,Survey,L’état d’esprit de réussite
+Modules,Resources,L’état d’esprit de réussite
+Introduction,Story,La pensée de conception
+Modules,Bussiness Concept,La pensée de conception
+Modules,Technology Skills,La pensée de conception
+Modules,Survey,La pensée de conception
+Modules,Resources,La pensée de conception
+Introduction,Story,Planification stratégique
+Modules,Bussiness Concept,Planification stratégique
+Modules,Technology Skills,Planification stratégique
+Modules,Survey,Planification stratégique
+Modules,Resources,Planification stratégique
+Introduction,Story,Flux de trésorerie
+Modules,Bussiness Concept,Flux de trésorerie
+Modules,Technology Skills,Flux de trésorerie
+Modules,Survey,Flux de trésorerie
+Modules,Resources,Flux de trésorerie
+Introduction,Story,Fondamentaux de la finance
+Modules,Bussiness Concept,Fondamentaux de la finance
+Modules,Technology Skills,Fondamentaux de la finance
+Modules,Survey,Fondamentaux de la finance
+Modules,Resources,Fondamentaux de la finance
+Introduction,Story,Pertes et profits
+Modules,Bussiness Concept,Pertes et profits
+Modules,Technology Skills,Pertes et profits
+Modules,Survey,Pertes et profits
+Modules,Resources,Pertes et profits
+Introduction,Story,Recherche de financements
+Modules,Bussiness Concept,Recherche de financements
+Modules,Technology Skills,Recherche de financements
+Modules,Survey,Recherche de financements
+Modules,Resources,Recherche de financements
+Introduction,Story,Anticiper les ventes
+Modules,Bussiness Concept,Anticiper les ventes
+Modules,Technology Skills,Anticiper les ventes
+Modules,Survey,Anticiper les ventes
+Modules,Resources,Anticiper les ventes
+Introduction,Story,Votre public cible
+Modules,Bussiness Concept,Votre public cible
+Modules,Technology Skills,Votre public cible
+Modules,Survey,Votre public cible
+Modules,Resources,Votre public cible
+Introduction,Story,Vendre en ligne
+Modules,Bussiness Concept,Vendre en ligne
+Modules,Technology Skills,Vendre en ligne
+Modules,Survey,Vendre en ligne
+Modules,Resources,Vendre en ligne
+Introduction,Story,Sites Web efficaces
+Modules,Bussiness Concept,Sites Web efficaces
+Modules,Technology Skills,Sites Web efficaces
+Modules,Survey,Sites Web efficaces
+Modules,Resources,Sites Web efficaces
+Introduction,Story,Gestion de la relation client (CRM)
+Modules,Bussiness Concept,Gestion de la relation client (CRM)
+Modules,Technology Skills,Gestion de la relation client (CRM)
+Modules,Survey,Gestion de la relation client (CRM)
+Modules,Resources,Gestion de la relation client (CRM)
+Introduction,Story,L'art de vendre : Principes fondamentaux de la vente
+Modules,Bussiness Concept,L'art de vendre : Principes fondamentaux de la vente
+Modules,Technology Skills,L'art de vendre : Principes fondamentaux de la vente
+Modules,Survey,L'art de vendre : Principes fondamentaux de la vente
+Modules,Resources,L'art de vendre : Principes fondamentaux de la vente
+Introduction,Story,Marketing sur les réseaux sociaux 
+Modules,Bussiness Concept,Marketing sur les réseaux sociaux 
+Modules,Technology Skills,Marketing sur les réseaux sociaux 
+Modules,Survey,Marketing sur les réseaux sociaux 
+Modules,Resources,Marketing sur les réseaux sociaux 
+Introduction,Story,Avantages contre caractéristiques
+Modules,Bussiness Concept,Avantages contre caractéristiques
+Modules,Technology Skills,Avantages contre caractéristiques
+Modules,Survey,Avantages contre caractéristiques
+Modules,Resources,Avantages contre caractéristiques
+Introduction,Story,Fixer les prix
+Modules,Bussiness Concept,Fixer les prix
+Modules,Technology Skills,Fixer les prix
+Modules,Survey,Fixer les prix
+Modules,Resources,Fixer les prix
+Introduction,Story,Proposition de valeur unique
+Modules,Bussiness Concept,Proposition de valeur unique
+Modules,Technology Skills,Proposition de valeur unique
+Modules,Survey,Proposition de valeur unique
+Modules,Resources,Proposition de valeur unique
+Introduction,Story,Optimiser les capacités
+Modules,Bussiness Concept,Optimiser les capacités
+Modules,Technology Skills,Optimiser les capacités
+Modules,Survey,Optimiser les capacités
+Modules,Resources,Optimiser les capacités
+Introduction,Story,Gestion des informations de contact
+Modules,Bussiness Concept,Gestion des informations de contact
+Modules,Technology Skills,Gestion des informations de contact
+Modules,Survey,Gestion des informations de contact
+Modules,Resources,Gestion des informations de contact
+Introduction,Story,Gestion d'inventaire
+Modules,Bussiness Concept,Gestion d'inventaire
+Modules,Technology Skills,Gestion d'inventaire
+Modules,Survey,Gestion d'inventaire
+Modules,Resources,Gestion d'inventaire
+Introduction,Story,Embaucher du personnel
+Modules,Bussiness Concept,Embaucher du personnel
+Modules,Technology Skills,Embaucher du personnel
+Modules,Survey,Embaucher du personnel
+Modules,Resources,Embaucher du personnel
+Introduction,Story,Efficacité énergétique : Faire davantage avec moins
+Modules,Bussiness Concept,Efficacité énergétique : Faire davantage avec moins
+Modules,Technology Skills,Efficacité énergétique : Faire davantage avec moins
+Modules,Survey,Efficacité énergétique : Faire davantage avec moins
+Modules,Resources,Efficacité énergétique : Faire davantage avec moins
+Introduction,Story,L'informatique au service de mon entreprise
+Modules,Bussiness Concept,L'informatique au service de mon entreprise
+Modules,Technology Skills,L'informatique au service de mon entreprise
+Modules,Survey,L'informatique au service de mon entreprise
+Modules,Resources,L'informatique au service de mon entreprise
+Introduction,Story,Effective Presentations
+Modules,Bussiness Concept,Effective Presentations
+Modules,Technology Skills,Effective Presentations
+Modules,Survey,Effective Presentations
+Modules,Resources,Effective Presentations
+Introduction,Story,Effective Leadership
+Modules,Bussiness Concept,Effective Leadership
+Modules,Technology Skills,Effective Leadership
+Modules,Survey,Effective Leadership
+Modules,Resources,Effective Leadership
+Introduction,Story,Business Email
+Modules,Bussiness Concept,Business Email
+Modules,Technology Skills,Business Email
+Modules,Survey,Business Email
+Modules,Resources,Business Email
+Introduction,Story,Business Communications 
+Modules,Bussiness Concept,Business Communications 
+Modules,Technology Skills,Business Communications 
+Modules,Survey,Business Communications 
+Modules,Resources,Business Communications 
+Introduction,Story,Presenting Data
+Modules,Bussiness Concept,Presenting Data
+Modules,Technology Skills,Presenting Data
+Modules,Survey,Presenting Data
+Modules,Resources,Presenting Data
+Introduction,Story,Circular Economy
+Modules,Bussiness Concept,Circular Economy
+Modules,Technology Skills,Circular Economy
+Modules,Survey,Circular Economy
+Modules,Resources,Circular Economy
+Introduction,Story,Starting a Small Business
+Modules,Bussiness Concept,Starting a Small Business
+Modules,Technology Skills,Starting a Small Business
+Modules,Survey,Starting a Small Business
+Modules,Resources,Starting a Small Business
+Introduction,Story,Social Entrepreneurship
+Modules,Bussiness Concept,Social Entrepreneurship
+Modules,Technology Skills,Social Entrepreneurship
+Modules,Survey,Social Entrepreneurship
+Modules,Resources,Social Entrepreneurship
+Introduction,Story,Growth Engine for Your Business
+Modules,Bussiness Concept,Growth Engine for Your Business
+Modules,Technology Skills,Growth Engine for Your Business
+Modules,Survey,Growth Engine for Your Business
+Modules,Resources,Growth Engine for Your Business
+Introduction,Story,3D Printing
+Modules,Bussiness Concept,3D Printing
+Modules,Technology Skills,3D Printing
+Modules,Survey,3D Printing
+Modules,Resources,3D Printing
+Introduction,Story,Success Mindset
+Modules,Bussiness Concept,Success Mindset
+Modules,Technology Skills,Success Mindset
+Modules,Survey,Success Mindset
+Modules,Resources,Success Mindset
+Introduction,Story,Design Thinking
+Modules,Bussiness Concept,Design Thinking
+Modules,Technology Skills,Design Thinking
+Modules,Survey,Design Thinking
+Modules,Resources,Design Thinking
+Introduction,Story,Strategic Planning
+Modules,Bussiness Concept,Strategic Planning
+Modules,Technology Skills,Strategic Planning
+Modules,Survey,Strategic Planning
+Modules,Resources,Strategic Planning
+Introduction,Story,Cash Flow
+Modules,Bussiness Concept,Cash Flow
+Modules,Technology Skills,Cash Flow
+Modules,Survey,Cash Flow
+Modules,Resources,Cash Flow
+Introduction,Story,Basics of Finance
+Modules,Bussiness Concept,Basics of Finance
+Modules,Technology Skills,Basics of Finance
+Modules,Survey,Basics of Finance
+Modules,Resources,Basics of Finance
+Introduction,Story,Profit and Loss
+Modules,Bussiness Concept,Profit and Loss
+Modules,Technology Skills,Profit and Loss
+Modules,Survey,Profit and Loss
+Modules,Resources,Profit and Loss
+Introduction,Story,Finding Funding
+Modules,Bussiness Concept,Finding Funding
+Modules,Technology Skills,Finding Funding
+Modules,Survey,Finding Funding
+Modules,Resources,Finding Funding
+Introduction,Story,Sales Forecasting
+Modules,Bussiness Concept,Sales Forecasting
+Modules,Technology Skills,Sales Forecasting
+Modules,Survey,Sales Forecasting
+Modules,Resources,Sales Forecasting
+Introduction,Story,"Your Target Audience
+"
+Modules,Bussiness Concept,"Your Target Audience
+"
+Modules,Technology Skills,"Your Target Audience
+"
+Modules,Survey,"Your Target Audience
+"
+Modules,Resources,"Your Target Audience
+"
+Introduction,Story,Selling Online
+Modules,Bussiness Concept,Selling Online
+Modules,Technology Skills,Selling Online
+Modules,Survey,Selling Online
+Modules,Resources,Selling Online
+Introduction,Story,Effective Business Websites
+Modules,Bussiness Concept,Effective Business Websites
+Modules,Technology Skills,Effective Business Websites
+Modules,Survey,Effective Business Websites
+Modules,Resources,Effective Business Websites
+Introduction,Story,Customer Relationship Management
+Modules,Bussiness Concept,Customer Relationship Management
+Modules,Technology Skills,Customer Relationship Management
+Modules,Survey,Customer Relationship Management
+Modules,Resources,Customer Relationship Management
+Introduction,Story,The Art of Sales: Fundamentals of Selling
+Modules,Bussiness Concept,The Art of Sales: Fundamentals of Selling
+Modules,Technology Skills,The Art of Sales: Fundamentals of Selling
+Modules,Survey,The Art of Sales: Fundamentals of Selling
+Modules,Resources,The Art of Sales: Fundamentals of Selling
+Introduction,Story,Marketing Benefits vs. Features
+Modules,Bussiness Concept,Marketing Benefits vs. Features
+Modules,Technology Skills,Marketing Benefits vs. Features
+Modules,Survey,Marketing Benefits vs. Features
+Modules,Resources,Marketing Benefits vs. Features
+Introduction,Story,Setting Prices
+Modules,Bussiness Concept,Setting Prices
+Modules,Technology Skills,Setting Prices
+Modules,Survey,Setting Prices
+Modules,Resources,Setting Prices
+Introduction,Story,Unique Value Proposition
+Modules,Bussiness Concept,Unique Value Proposition
+Modules,Technology Skills,Unique Value Proposition
+Modules,Survey,Unique Value Proposition
+Modules,Resources,Unique Value Proposition
+Introduction,Story,Social Media Marketing
+Modules,Bussiness Concept,Social Media Marketing
+Modules,Technology Skills,Social Media Marketing
+Modules,Survey,Social Media Marketing
+Modules,Resources,Social Media Marketing
+Introduction,Story,Inventory Management
+Modules,Bussiness Concept,Inventory Management
+Modules,Technology Skills,Inventory Management
+Modules,Survey,Inventory Management
+Modules,Resources,Inventory Management
+Introduction,Story,Maximizing Capacity
+Modules,Bussiness Concept,Maximizing Capacity
+Modules,Technology Skills,Maximizing Capacity
+Modules,Survey,Maximizing Capacity
+Modules,Resources,Maximizing Capacity
+Introduction,Story,IT for Business Success
+Modules,Bussiness Concept,IT for Business Success
+Modules,Technology Skills,IT for Business Success
+Modules,Survey,IT for Business Success
+Modules,Resources,IT for Business Success
+Introduction,Story,Energy Efficiency: Do More for Less
+Modules,Bussiness Concept,Energy Efficiency: Do More for Less
+Modules,Technology Skills,Energy Efficiency: Do More for Less
+Modules,Survey,Energy Efficiency: Do More for Less
+Modules,Resources,Energy Efficiency: Do More for Less
+Introduction,Story,Hiring Staff
+Modules,Bussiness Concept,Hiring Staff
+Modules,Technology Skills,Hiring Staff
+Modules,Survey,Hiring Staff
+Modules,Resources,Hiring Staff
+Introduction,Story,Managing Contact Information
+Modules,Bussiness Concept,Managing Contact Information
+Modules,Technology Skills,Managing Contact Information
+Modules,Survey,Managing Contact Information
+Modules,Resources,Managing Contact Information
+Introduction,Story,المحاضرات الفعّالة
+Modules,Bussiness Concept,المحاضرات الفعّالة
+Modules,Technology Skills,المحاضرات الفعّالة
+Modules,Survey,المحاضرات الفعّالة
+Modules,Resources,المحاضرات الفعّالة
+Introduction,Story,البريد الإلكتروني للعمل
+Modules,Bussiness Concept,البريد الإلكتروني للعمل
+Modules,Technology Skills,البريد الإلكتروني للعمل
+Modules,Survey,البريد الإلكتروني للعمل
+Modules,Resources,البريد الإلكتروني للعمل
+Introduction,Story,القيادة الفعّالة
+Modules,Bussiness Concept,القيادة الفعّالة
+Modules,Technology Skills,القيادة الفعّالة
+Modules,Survey,القيادة الفعّالة
+Modules,Resources,القيادة الفعّالة
+Introduction,Story,عرض البيانات
+Modules,Bussiness Concept,عرض البيانات
+Modules,Technology Skills,عرض البيانات
+Modules,Survey,عرض البيانات
+Modules,Resources,عرض البيانات
+Introduction,Story,عمليات التواصل في العمل
+Modules,Bussiness Concept,عمليات التواصل في العمل
+Modules,Technology Skills,عمليات التواصل في العمل
+Modules,Survey,عمليات التواصل في العمل
+Modules,Resources,عمليات التواصل في العمل
+Introduction,Story,لاقتصاد الدائري
+Modules,Bussiness Concept,لاقتصاد الدائري
+Modules,Technology Skills,لاقتصاد الدائري
+Modules,Survey,لاقتصاد الدائري
+Modules,Resources,لاقتصاد الدائري
+Introduction,Story,تأسيس مشروع صغير
+Modules,Bussiness Concept,تأسيس مشروع صغير
+Modules,Technology Skills,تأسيس مشروع صغير
+Modules,Survey,تأسيس مشروع صغير
+Modules,Resources,تأسيس مشروع صغير
+Introduction,Story,ريادة الأعمال الاجتماعية 
+Modules,Bussiness Concept,ريادة الأعمال الاجتماعية 
+Modules,Technology Skills,ريادة الأعمال الاجتماعية 
+Modules,Survey,ريادة الأعمال الاجتماعية 
+Modules,Resources,ريادة الأعمال الاجتماعية 
+Introduction,Story,محركات النمو
+Modules,Bussiness Concept,محركات النمو
+Modules,Technology Skills,محركات النمو
+Modules,Survey,محركات النمو
+Modules,Resources,محركات النمو
+Introduction,Story,الطباعة ثلاثية الأبعاد
+Modules,Bussiness Concept,الطباعة ثلاثية الأبعاد
+Modules,Technology Skills,الطباعة ثلاثية الأبعاد
+Modules,Survey,الطباعة ثلاثية الأبعاد
+Modules,Resources,الطباعة ثلاثية الأبعاد
+Introduction,Story,العقلية الناجحة
+Modules,Bussiness Concept,العقلية الناجحة
+Modules,Technology Skills,العقلية الناجحة
+Modules,Survey,العقلية الناجحة
+Modules,Resources,العقلية الناجحة
+Introduction,Story,التفكير التصميمي
+Modules,Bussiness Concept,التفكير التصميمي
+Modules,Technology Skills,التفكير التصميمي
+Modules,Survey,التفكير التصميمي
+Modules,Resources,التفكير التصميمي
+Introduction,Story,التخطيط الاستراتيجي
+Modules,Bussiness Concept,التخطيط الاستراتيجي
+Modules,Technology Skills,التخطيط الاستراتيجي
+Modules,Survey,التخطيط الاستراتيجي
+Modules,Resources,التخطيط الاستراتيجي
+Introduction,Story,التدفق النقدي
+Modules,Bussiness Concept,التدفق النقدي
+Modules,Technology Skills,التدفق النقدي
+Modules,Survey,التدفق النقدي
+Modules,Resources,التدفق النقدي
+Introduction,Story,أساسيات التمويل
+Modules,Bussiness Concept,أساسيات التمويل
+Modules,Technology Skills,أساسيات التمويل
+Modules,Survey,أساسيات التمويل
+Modules,Resources,أساسيات التمويل
+Introduction,Story,الأرباح والخسائر
+Modules,Bussiness Concept,الأرباح والخسائر
+Modules,Technology Skills,الأرباح والخسائر
+Modules,Survey,الأرباح والخسائر
+Modules,Resources,الأرباح والخسائر
+Introduction,Story,البحث عن التمويل
+Modules,Bussiness Concept,البحث عن التمويل
+Modules,Technology Skills,البحث عن التمويل
+Modules,Survey,البحث عن التمويل
+Modules,Resources,البحث عن التمويل
+Introduction,Story,توقع المبيعات
+Modules,Bussiness Concept,توقع المبيعات
+Modules,Technology Skills,توقع المبيعات
+Modules,Survey,توقع المبيعات
+Modules,Resources,توقع المبيعات
+Introduction,Story,البداية: ما جمهورك المستهدف؟
+Modules,Bussiness Concept,البداية: ما جمهورك المستهدف؟
+Modules,Technology Skills,البداية: ما جمهورك المستهدف؟
+Modules,Survey,البداية: ما جمهورك المستهدف؟
+Modules,Resources,البداية: ما جمهورك المستهدف؟
+Introduction,Story,البيع عبر الإنترنت
+Modules,Bussiness Concept,البيع عبر الإنترنت
+Modules,Technology Skills,البيع عبر الإنترنت
+Modules,Survey,البيع عبر الإنترنت
+Modules,Resources,البيع عبر الإنترنت
+Introduction,Story,مواقع الويب الفعالة
+Modules,Bussiness Concept,مواقع الويب الفعالة
+Modules,Technology Skills,مواقع الويب الفعالة
+Modules,Survey,مواقع الويب الفعالة
+Modules,Resources,مواقع الويب الفعالة
+Introduction,Story,علاقات العملاء
+Modules,Bussiness Concept,علاقات العملاء
+Modules,Technology Skills,علاقات العملاء
+Modules,Survey,علاقات العملاء
+Modules,Resources,علاقات العملاء
+Introduction,Story,أساسيات فن البيع
+Modules,Bussiness Concept,أساسيات فن البيع
+Modules,Technology Skills,أساسيات فن البيع
+Modules,Survey,أساسيات فن البيع
+Modules,Resources,أساسيات فن البيع
+Introduction,Story,التسويق عبر شبكات التواصل الاجتماعي
+Modules,Bussiness Concept,التسويق عبر شبكات التواصل الاجتماعي
+Modules,Technology Skills,التسويق عبر شبكات التواصل الاجتماعي
+Modules,Survey,التسويق عبر شبكات التواصل الاجتماعي
+Modules,Resources,التسويق عبر شبكات التواصل الاجتماعي
+Introduction,Story,مقترح القيمة الفريدة
+Modules,Bussiness Concept,مقترح القيمة الفريدة
+Modules,Technology Skills,مقترح القيمة الفريدة
+Modules,Survey,مقترح القيمة الفريدة
+Modules,Resources,مقترح القيمة الفريدة
+Introduction,Story,تحديد الأسعار
+Modules,Bussiness Concept,تحديد الأسعار
+Modules,Technology Skills,تحديد الأسعار
+Modules,Survey,تحديد الأسعار
+Modules,Resources,تحديد الأسعار
+Introduction,Story,مزايا التسويق مقارنةً بالخصائص
+Modules,Bussiness Concept,مزايا التسويق مقارنةً بالخصائص
+Modules,Technology Skills,مزايا التسويق مقارنةً بالخصائص
+Modules,Survey,مزايا التسويق مقارنةً بالخصائص
+Modules,Resources,مزايا التسويق مقارنةً بالخصائص
+Introduction,Story,إدارة جهات الاتصال
+Modules,Bussiness Concept,إدارة جهات الاتصال
+Modules,Technology Skills,إدارة جهات الاتصال
+Modules,Survey,إدارة جهات الاتصال
+Modules,Resources,إدارة جهات الاتصال
+Introduction,Story,زيادة السعة
+Modules,Bussiness Concept,زيادة السعة
+Modules,Technology Skills,زيادة السعة
+Modules,Survey,زيادة السعة
+Modules,Resources,زيادة السعة
+Introduction,Story,تعيين الموظفين
+Modules,Bussiness Concept,تعيين الموظفين
+Modules,Technology Skills,تعيين الموظفين
+Modules,Survey,تعيين الموظفين
+Modules,Resources,تعيين الموظفين
+Introduction,Story,كفاءة استخدام الطاقة: إنجاز أكثر بتكلفة أقل
+Modules,Bussiness Concept,كفاءة استخدام الطاقة: إنجاز أكثر بتكلفة أقل
+Modules,Technology Skills,كفاءة استخدام الطاقة: إنجاز أكثر بتكلفة أقل
+Modules,Survey,كفاءة استخدام الطاقة: إنجاز أكثر بتكلفة أقل
+Modules,Resources,كفاءة استخدام الطاقة: إنجاز أكثر بتكلفة أقل
+Introduction,Story,إدارة المخزون
+Modules,Bussiness Concept,إدارة المخزون
+Modules,Technology Skills,إدارة المخزون
+Modules,Survey,إدارة المخزون
+Modules,Resources,إدارة المخزون
+Introduction,Story,تكنولوجيا المعلومات لنجاح الأعمال
+Modules,Bussiness Concept,تكنولوجيا المعلومات لنجاح الأعمال
+Modules,Technology Skills,تكنولوجيا المعلومات لنجاح الأعمال
+Modules,Survey,تكنولوجيا المعلومات لنجاح الأعمال
+Modules,Resources,تكنولوجيا المعلومات لنجاح الأعمال
+Introduction,Story,प्रभावशाली प्रस्तुतियाँ
+Modules,Bussiness Concept,प्रभावशाली प्रस्तुतियाँ
+Modules,Technology Skills,प्रभावशाली प्रस्तुतियाँ
+Modules,Survey,प्रभावशाली प्रस्तुतियाँ
+Modules,Resources,प्रभावशाली प्रस्तुतियाँ
+Introduction,Story,व्यावसायिक ईमेल
+Modules,Bussiness Concept,व्यावसायिक ईमेल
+Modules,Technology Skills,व्यावसायिक ईमेल
+Modules,Survey,व्यावसायिक ईमेल
+Modules,Resources,व्यावसायिक ईमेल
+Introduction,Story,डेटा की प्रस्तुति
+Modules,Bussiness Concept,डेटा की प्रस्तुति
+Modules,Technology Skills,डेटा की प्रस्तुति
+Modules,Survey,डेटा की प्रस्तुति
+Modules,Resources,डेटा की प्रस्तुति
+Introduction,Story,व्यावसायिक संचार
+Modules,Bussiness Concept,व्यावसायिक संचार
+Modules,Technology Skills,व्यावसायिक संचार
+Modules,Survey,व्यावसायिक संचार
+Modules,Resources,व्यावसायिक संचार
+Introduction,Story,प्रभावशाली नेतृत्व
+Modules,Bussiness Concept,प्रभावशाली नेतृत्व
+Modules,Technology Skills,प्रभावशाली नेतृत्व
+Modules,Survey,प्रभावशाली नेतृत्व
+Modules,Resources,प्रभावशाली नेतृत्व
+Introduction,Story,सर्कुलर इकोनॉमी
+Modules,Bussiness Concept,सर्कुलर इकोनॉमी
+Modules,Technology Skills,सर्कुलर इकोनॉमी
+Modules,Survey,सर्कुलर इकोनॉमी
+Modules,Resources,सर्कुलर इकोनॉमी
+Introduction,Story,एक छोटा व्यवसाय शुरू करना
+Modules,Bussiness Concept,एक छोटा व्यवसाय शुरू करना
+Modules,Technology Skills,एक छोटा व्यवसाय शुरू करना
+Modules,Survey,एक छोटा व्यवसाय शुरू करना
+Modules,Resources,एक छोटा व्यवसाय शुरू करना
+Introduction,Story,सामाजिक उद्यमिता
+Modules,Bussiness Concept,सामाजिक उद्यमिता
+Modules,Technology Skills,सामाजिक उद्यमिता
+Modules,Survey,सामाजिक उद्यमिता
+Modules,Resources,सामाजिक उद्यमिता
+Introduction,Story,विकास इंजिन
+Modules,Bussiness Concept,विकास इंजिन
+Modules,Technology Skills,विकास इंजिन
+Modules,Survey,विकास इंजिन
+Modules,Resources,विकास इंजिन
+Introduction,Story,3D प्रिंटिंग
+Modules,Bussiness Concept,3D प्रिंटिंग
+Modules,Technology Skills,3D प्रिंटिंग
+Modules,Survey,3D प्रिंटिंग
+Modules,Resources,3D प्रिंटिंग
+Introduction,Story,सफल सोच
+Modules,Bussiness Concept,सफल सोच
+Modules,Technology Skills,सफल सोच
+Modules,Survey,सफल सोच
+Modules,Resources,सफल सोच
+Introduction,Story,अभिकल्प चिंतन
+Modules,Bussiness Concept,अभिकल्प चिंतन
+Modules,Technology Skills,अभिकल्प चिंतन
+Modules,Survey,अभिकल्प चिंतन
+Modules,Resources,अभिकल्प चिंतन
+Introduction,Story,रणनीतिक आयोजन
+Modules,Bussiness Concept,रणनीतिक आयोजन
+Modules,Technology Skills,रणनीतिक आयोजन
+Modules,Survey,रणनीतिक आयोजन
+Modules,Resources,रणनीतिक आयोजन
+Introduction,Story,नकदी प्रवाह
+Modules,Bussiness Concept,नकदी प्रवाह
+Modules,Technology Skills,नकदी प्रवाह
+Modules,Survey,नकदी प्रवाह
+Modules,Resources,नकदी प्रवाह
+Introduction,Story,वित्त के मूलभूत सिद्धांत
+Modules,Bussiness Concept,वित्त के मूलभूत सिद्धांत
+Modules,Technology Skills,वित्त के मूलभूत सिद्धांत
+Modules,Survey,वित्त के मूलभूत सिद्धांत
+Modules,Resources,वित्त के मूलभूत सिद्धांत
+Introduction,Story,लाभ और हानि
+Modules,Bussiness Concept,लाभ और हानि
+Modules,Technology Skills,लाभ और हानि
+Modules,Survey,लाभ और हानि
+Modules,Resources,लाभ और हानि
+Introduction,Story,वित्तीय समर्थन प्राप्त करना
+Modules,Bussiness Concept,वित्तीय समर्थन प्राप्त करना
+Modules,Technology Skills,वित्तीय समर्थन प्राप्त करना
+Modules,Survey,वित्तीय समर्थन प्राप्त करना
+Modules,Resources,वित्तीय समर्थन प्राप्त करना
+Introduction,Story,बिक्री का पूर्वानुमान
+Modules,Bussiness Concept,बिक्री का पूर्वानुमान
+Modules,Technology Skills,बिक्री का पूर्वानुमान
+Modules,Survey,बिक्री का पूर्वानुमान
+Modules,Resources,बिक्री का पूर्वानुमान
+Introduction,Story,आपका लक्ष्य समूह
+Modules,Bussiness Concept,आपका लक्ष्य समूह
+Modules,Technology Skills,आपका लक्ष्य समूह
+Modules,Survey,आपका लक्ष्य समूह
+Modules,Resources,आपका लक्ष्य समूह
+Introduction,Story,ऑनलाइन बिक्री
+Modules,Bussiness Concept,ऑनलाइन बिक्री
+Modules,Technology Skills,ऑनलाइन बिक्री
+Modules,Survey,ऑनलाइन बिक्री
+Modules,Resources,ऑनलाइन बिक्री
+Introduction,Story,प्रभावशाली व्यावसायिक वेबसाइटें
+Modules,Bussiness Concept,प्रभावशाली व्यावसायिक वेबसाइटें
+Modules,Technology Skills,प्रभावशाली व्यावसायिक वेबसाइटें
+Modules,Survey,प्रभावशाली व्यावसायिक वेबसाइटें
+Modules,Resources,प्रभावशाली व्यावसायिक वेबसाइटें
+Introduction,Story,ग्राहक संबंध प्रबंधन (सीआरएम)
+Modules,Bussiness Concept,ग्राहक संबंध प्रबंधन (सीआरएम)
+Modules,Technology Skills,ग्राहक संबंध प्रबंधन (सीआरएम)
+Modules,Survey,ग्राहक संबंध प्रबंधन (सीआरएम)
+Modules,Resources,ग्राहक संबंध प्रबंधन (सीआरएम)
+Introduction,Story,सेल्स की कला : विक्रय के मूल सिद्धांत
+Modules,Bussiness Concept,सेल्स की कला : विक्रय के मूल सिद्धांत
+Modules,Technology Skills,सेल्स की कला : विक्रय के मूल सिद्धांत
+Modules,Survey,सेल्स की कला : विक्रय के मूल सिद्धांत
+Modules,Resources,सेल्स की कला : विक्रय के मूल सिद्धांत
+Introduction,Story,सामाजिक माध्यम विपणन
+Modules,Bussiness Concept,सामाजिक माध्यम विपणन
+Modules,Technology Skills,सामाजिक माध्यम विपणन
+Modules,Survey,सामाजिक माध्यम विपणन
+Modules,Resources,सामाजिक माध्यम विपणन
+Introduction,Story,अद्वितीय मूल्य का प्रस्ताव
+Modules,Bussiness Concept,अद्वितीय मूल्य का प्रस्ताव
+Modules,Technology Skills,अद्वितीय मूल्य का प्रस्ताव
+Modules,Survey,अद्वितीय मूल्य का प्रस्ताव
+Modules,Resources,अद्वितीय मूल्य का प्रस्ताव
+Introduction,Story,क़ीमत निर्धारण
+Modules,Bussiness Concept,क़ीमत निर्धारण
+Modules,Technology Skills,क़ीमत निर्धारण
+Modules,Survey,क़ीमत निर्धारण
+Modules,Resources,क़ीमत निर्धारण
+Introduction,Story,लाभों बनाम विशेषताओं का विपणन
+Modules,Bussiness Concept,लाभों बनाम विशेषताओं का विपणन
+Modules,Technology Skills,लाभों बनाम विशेषताओं का विपणन
+Modules,Survey,लाभों बनाम विशेषताओं का विपणन
+Modules,Resources,लाभों बनाम विशेषताओं का विपणन
+Introduction,Story,क्षमता का अधिकतम उपयोग
+Modules,Bussiness Concept,क्षमता का अधिकतम उपयोग
+Modules,Technology Skills,क्षमता का अधिकतम उपयोग
+Modules,Survey,क्षमता का अधिकतम उपयोग
+Modules,Resources,क्षमता का अधिकतम उपयोग
+Introduction,Story,संपर्क जानकारी का प्रबंधन
+Modules,Bussiness Concept,संपर्क जानकारी का प्रबंधन
+Modules,Technology Skills,संपर्क जानकारी का प्रबंधन
+Modules,Survey,संपर्क जानकारी का प्रबंधन
+Modules,Resources,संपर्क जानकारी का प्रबंधन
+Introduction,Story,कर्मियों को नियोजित करना
+Modules,Bussiness Concept,कर्मियों को नियोजित करना
+Modules,Technology Skills,कर्मियों को नियोजित करना
+Modules,Survey,कर्मियों को नियोजित करना
+Modules,Resources,कर्मियों को नियोजित करना
+Introduction,Story,ऊर्जा कार्यक्षमता: कम में ज़्यादा करें
+Modules,Bussiness Concept,ऊर्जा कार्यक्षमता: कम में ज़्यादा करें
+Modules,Technology Skills,ऊर्जा कार्यक्षमता: कम में ज़्यादा करें
+Modules,Survey,ऊर्जा कार्यक्षमता: कम में ज़्यादा करें
+Modules,Resources,ऊर्जा कार्यक्षमता: कम में ज़्यादा करें
+Introduction,Story,सामान-सूची प्रबंधन
+Modules,Bussiness Concept,सामान-सूची प्रबंधन
+Modules,Technology Skills,सामान-सूची प्रबंधन
+Modules,Survey,सामान-सूची प्रबंधन
+Modules,Resources,सामान-सूची प्रबंधन
+Introduction,Story,व्यावसायिक सफलता के लिए आईटी
+Modules,Bussiness Concept,व्यावसायिक सफलता के लिए आईटी
+Modules,Technology Skills,व्यावसायिक सफलता के लिए आईटी
+Modules,Survey,व्यावसायिक सफलता के लिए आईटी
+Modules,Resources,व्यावसायिक सफलता के लिए आईटी
+Introduction,Story,Apresentações Eficientes
+Modules,Bussiness Concept,Apresentações Eficientes
+Modules,Technology Skills,Apresentações Eficientes
+Modules,Survey,Apresentações Eficientes
+Modules,Resources,Apresentações Eficientes
+Introduction,Story,Liderança Eficaz
+Modules,Bussiness Concept,Liderança Eficaz
+Modules,Technology Skills,Liderança Eficaz
+Modules,Survey,Liderança Eficaz
+Modules,Resources,Liderança Eficaz
+Introduction,Story,Apresentação de Dados
+Modules,Bussiness Concept,Apresentação de Dados
+Modules,Technology Skills,Apresentação de Dados
+Modules,Survey,Apresentação de Dados
+Modules,Resources,Apresentação de Dados
+Introduction,Story,Comunicação de Negócios
+Modules,Bussiness Concept,Comunicação de Negócios
+Modules,Technology Skills,Comunicação de Negócios
+Modules,Survey,Comunicação de Negócios
+Modules,Resources,Comunicação de Negócios
+Introduction,Story,E-mail Comercial
+Modules,Bussiness Concept,E-mail Comercial
+Modules,Technology Skills,E-mail Comercial
+Modules,Survey,E-mail Comercial
+Modules,Resources,E-mail Comercial
+Introduction,Story,Economia Circular
+Modules,Bussiness Concept,Economia Circular
+Modules,Technology Skills,Economia Circular
+Modules,Survey,Economia Circular
+Modules,Resources,Economia Circular
+Introduction,Story,Como começar uma Pequena Empresa
+Modules,Bussiness Concept,Como começar uma Pequena Empresa
+Modules,Technology Skills,Como começar uma Pequena Empresa
+Modules,Survey,Como começar uma Pequena Empresa
+Modules,Resources,Como começar uma Pequena Empresa
+Introduction,Story,Empreendedorismo Social
+Modules,Bussiness Concept,Empreendedorismo Social
+Modules,Technology Skills,Empreendedorismo Social
+Modules,Survey,Empreendedorismo Social
+Modules,Resources,Empreendedorismo Social
+Introduction,Story,Mecanismos de Crescimento
+Modules,Bussiness Concept,Mecanismos de Crescimento
+Modules,Technology Skills,Mecanismos de Crescimento
+Modules,Survey,Mecanismos de Crescimento
+Modules,Resources,Mecanismos de Crescimento
+Introduction,Story,Impressão 3D
+Modules,Bussiness Concept,Impressão 3D
+Modules,Technology Skills,Impressão 3D
+Modules,Survey,Impressão 3D
+Modules,Resources,Impressão 3D
+Introduction,Story,Mentalidade de Sucesso
+Modules,Bussiness Concept,Mentalidade de Sucesso
+Modules,Technology Skills,Mentalidade de Sucesso
+Modules,Survey,Mentalidade de Sucesso
+Modules,Resources,Mentalidade de Sucesso
+Introduction,Story,Design Thinking
+Modules,Bussiness Concept,Design Thinking
+Modules,Technology Skills,Design Thinking
+Modules,Survey,Design Thinking
+Modules,Resources,Design Thinking
+Introduction,Story,Planejamento Estratégico
+Modules,Bussiness Concept,Planejamento Estratégico
+Modules,Technology Skills,Planejamento Estratégico
+Modules,Survey,Planejamento Estratégico
+Modules,Resources,Planejamento Estratégico
+Introduction,Story,Fluxo de Caixa
+Modules,Bussiness Concept,Fluxo de Caixa
+Modules,Technology Skills,Fluxo de Caixa
+Modules,Survey,Fluxo de Caixa
+Modules,Resources,Fluxo de Caixa
+Introduction,Story,Princípios Básicos de Finanças
+Modules,Bussiness Concept,Princípios Básicos de Finanças
+Modules,Technology Skills,Princípios Básicos de Finanças
+Modules,Survey,Princípios Básicos de Finanças
+Modules,Resources,Princípios Básicos de Finanças
+Introduction,Story,Lucros e Prejuízos
+Modules,Bussiness Concept,Lucros e Prejuízos
+Modules,Technology Skills,Lucros e Prejuízos
+Modules,Survey,Lucros e Prejuízos
+Modules,Resources,Lucros e Prejuízos
+Introduction,Story,Obtenção de Financiamento
+Modules,Bussiness Concept,Obtenção de Financiamento
+Modules,Technology Skills,Obtenção de Financiamento
+Modules,Survey,Obtenção de Financiamento
+Modules,Resources,Obtenção de Financiamento
+Introduction,Story,Previsão de Vendas
+Modules,Bussiness Concept,Previsão de Vendas
+Modules,Technology Skills,Previsão de Vendas
+Modules,Survey,Previsão de Vendas
+Modules,Resources,Previsão de Vendas
+Introduction,Story,Seu Público-alvo
+Modules,Bussiness Concept,Seu Público-alvo
+Modules,Technology Skills,Seu Público-alvo
+Modules,Survey,Seu Público-alvo
+Modules,Resources,Seu Público-alvo
+Introduction,Story,Vendas On-line
+Modules,Bussiness Concept,Vendas On-line
+Modules,Technology Skills,Vendas On-line
+Modules,Survey,Vendas On-line
+Modules,Resources,Vendas On-line
+Introduction,Story,Sites de Negócios Eficazes
+Modules,Bussiness Concept,Sites de Negócios Eficazes
+Modules,Technology Skills,Sites de Negócios Eficazes
+Modules,Survey,Sites de Negócios Eficazes
+Modules,Resources,Sites de Negócios Eficazes
+Introduction,Story,Gestão de Relacionamento com Clientes (CRM)
+Modules,Bussiness Concept,Gestão de Relacionamento com Clientes (CRM)
+Modules,Technology Skills,Gestão de Relacionamento com Clientes (CRM)
+Modules,Survey,Gestão de Relacionamento com Clientes (CRM)
+Modules,Resources,Gestão de Relacionamento com Clientes (CRM)
+Introduction,Story,A Arte das Vendas: Fundamentos de Venda
+Modules,Bussiness Concept,A Arte das Vendas: Fundamentos de Venda
+Modules,Technology Skills,A Arte das Vendas: Fundamentos de Venda
+Modules,Survey,A Arte das Vendas: Fundamentos de Venda
+Modules,Resources,A Arte das Vendas: Fundamentos de Venda
+Introduction,Story,Definição de Preços
+Modules,Bussiness Concept,Definição de Preços
+Modules,Technology Skills,Definição de Preços
+Modules,Survey,Definição de Preços
+Modules,Resources,Definição de Preços
+Introduction,Story,Benefícios de Marketing versus Características
+Modules,Bussiness Concept,Benefícios de Marketing versus Características
+Modules,Technology Skills,Benefícios de Marketing versus Características
+Modules,Survey,Benefícios de Marketing versus Características
+Modules,Resources,Benefícios de Marketing versus Características
+Introduction,Story,Marketing em Mídias Sociais
+Modules,Bussiness Concept,Marketing em Mídias Sociais
+Modules,Technology Skills,Marketing em Mídias Sociais
+Modules,Survey,Marketing em Mídias Sociais
+Modules,Resources,Marketing em Mídias Sociais
+Introduction,Story,Proposta de Valor Exclusivo
+Modules,Bussiness Concept,Proposta de Valor Exclusivo
+Modules,Technology Skills,Proposta de Valor Exclusivo
+Modules,Survey,Proposta de Valor Exclusivo
+Modules,Resources,Proposta de Valor Exclusivo
+Introduction,Story,Contratação de Pessoal
+Modules,Bussiness Concept,Contratação de Pessoal
+Modules,Technology Skills,Contratação de Pessoal
+Modules,Survey,Contratação de Pessoal
+Modules,Resources,Contratação de Pessoal
+Introduction,Story,Eficiência Energética: Fazer Mais por Menos
+Modules,Bussiness Concept,Eficiência Energética: Fazer Mais por Menos
+Modules,Technology Skills,Eficiência Energética: Fazer Mais por Menos
+Modules,Survey,Eficiência Energética: Fazer Mais por Menos
+Modules,Resources,Eficiência Energética: Fazer Mais por Menos
+Introduction,Story,TI para o Sucesso nos Negócios
+Modules,Bussiness Concept,TI para o Sucesso nos Negócios
+Modules,Technology Skills,TI para o Sucesso nos Negócios
+Modules,Survey,TI para o Sucesso nos Negócios
+Modules,Resources,TI para o Sucesso nos Negócios
+Introduction,Story,Gestão de Estoque
+Modules,Bussiness Concept,Gestão de Estoque
+Modules,Technology Skills,Gestão de Estoque
+Modules,Survey,Gestão de Estoque
+Modules,Resources,Gestão de Estoque
+Introduction,Story,Maximização da Capacidade
+Modules,Bussiness Concept,Maximização da Capacidade
+Modules,Technology Skills,Maximização da Capacidade
+Modules,Survey,Maximização da Capacidade
+Modules,Resources,Maximização da Capacidade
+Introduction,Story,Gerenciando Informações de Contato
+Modules,Bussiness Concept,Gerenciando Informações de Contato
+Modules,Technology Skills,Gerenciando Informações de Contato
+Modules,Survey,Gerenciando Informações de Contato
+Modules,Resources,Gerenciando Informações de Contato
